@@ -1,0 +1,9 @@
+{
+  "freq_minutes":60,
+  "history_steps":24,
+  "horizon_steps":3,
+  "n_zones":238,
+  "n_steps":9504,
+  "start_utc":"2025-01-01 00:00:00+00:00",
+  "end_utc":"2026-01-31 23:00:00+00:00"
+}
